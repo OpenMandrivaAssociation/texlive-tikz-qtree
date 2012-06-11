@@ -1,12 +1,12 @@
-# revision 24259
+# revision 26108
 # category Package
 # catalog-ctan /graphics/pgf/contrib/tikz-qtree
-# catalog-date 2011-10-10 20:16:25 +0200
+# catalog-date 2012-04-23 11:23:52 +0200
 # catalog-license gpl
-# catalog-version 1.12
+# catalog-version 1.2
 Name:		texlive-tikz-qtree
-Version:	1.12
-Release:	2
+Version:	1.20
+Release:	1
 Summary:	Use existing qtree syntax for trees in TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree
