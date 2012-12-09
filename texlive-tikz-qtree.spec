@@ -57,3 +57,20 @@ pdfTeX and XeTeX.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Mon Jun 11 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.20-1
++ Revision: 805126
+- Update to latest release.
+
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.12-2
++ Revision: 756913
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.12-1
++ Revision: 719746
+- texlive-tikz-qtree
+- texlive-tikz-qtree
+- texlive-tikz-qtree
+
