@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-tikz-qtree
 Version:	1.20
-Release:	4
+Release:	5
 Summary:	Use existing qtree syntax for trees in TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree
