@@ -3,7 +3,7 @@ Version:	26108
 Release:	2
 Summary:	Use existing qtree syntax for trees in TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-qtree.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-qtree.doc.r%{version}.tar.xz
